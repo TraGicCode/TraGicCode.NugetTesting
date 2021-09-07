@@ -1,0 +1,18 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraGicCode.NugetTesting", "src\TraGicCode.NugetTesting\TraGicCode.NugetTesting.csproj", "{08001657-8B60-4EAB-BEA0-0EC49C82624D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08001657-8B60-4EAB-BEA0-0EC49C82624D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08001657-8B60-4EAB-BEA0-0EC49C82624D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08001657-8B60-4EAB-BEA0-0EC49C82624D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08001657-8B60-4EAB-BEA0-0EC49C82624D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

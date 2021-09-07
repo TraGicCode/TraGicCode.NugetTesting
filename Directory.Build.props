@@ -1,0 +1,22 @@
+<Project>
+
+    <!-- Nuget Package Info -->
+    <PropertyGroup>
+        <PackageId>TraGicCode.NugetTesting</PackageId>
+        <Authors>TraGicCode</Authors>
+        <PackageProjectUrl>https://github.com/TraGicCode/TraGicCode.NugetTesting</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/TraGicCode/TraGicCode.NugetTesting</RepositoryUrl>
+        <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+        <!-- SourceLink -->
+        <PublishRepositoryUrl>true</PublishRepositoryUrl>
+        <EmbedUntrackedSources>true</EmbedUntrackedSources>
+        <IncludeSymbols>true</IncludeSymbols>
+        <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    </PropertyGroup>
+
+    <!-- SourceLink -->
+    <ItemGroup>
+        <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All" />
+    </ItemGroup>
+
+</Project>
